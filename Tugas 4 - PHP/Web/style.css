@@ -1,0 +1,268 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Share Tech;
+}
+
+.container{
+	width: 100%;
+}
+ .menu ul{
+	float: right;
+ 	display: inline-flex;
+ 	margin: 50px;
+ }
+
+ .menu ul li{
+	display: inline-block;
+ 	list-style-type: none;
+ 	list-style: none;
+ 	margin: 0 20px;
+ 	color:#FEFCF3;
+ 	cursor: pointer;
+ }
+
+ a{
+ 	color: #FEFCF3;
+ 	text-decoration: none;
+ }
+
+ .logo img{
+ 	width: 30px;
+ 	margin-top: -7px;
+ 	margin-right: 48px;
+ }  
+
+
+.banner{
+	top: 40%;
+	left: 130px;
+	position: absolute;
+	color: #586a74;
+}
+
+.app-text{
+	top: 30px;
+	margin-top: -50px;
+	padding-top:-100px;
+	padding-left:20px;
+	width: 200px;
+	float: right;
+	color: #FEFCF3;
+}
+
+.app-text h1{
+	padding-left: 60px;
+	font-size: 60px;
+	width: 640px; 
+	color: #FEFCF3;
+} 
+
+.app-text p {
+	padding-top: 30px;
+	width: 600px;
+	font-size: 15px;
+	padding-left: 70px;
+	line-height: 25px;
+}
+
+.app-picture{
+	padding-top: 10px;
+	float: left;
+}
+
+.app-picture img{
+	width: 300px;
+	margin-top: -160px;
+	padding-left: 50px; 
+}
+
+.bar{
+	margin-left: 120px;
+	margin-top: 5px; 
+	height: 50px;
+	display: inline-flex;  
+	color: #586a74; 
+}
+
+.nama{
+	margin-top: 10px;
+	height: 30px;
+	width: 200px;
+	border: 2px solid transparent;
+	border-radius: 15px;
+	background-image: radial-gradient(circle at top left,#ffffff, #ffffff);
+	background-origin: border-box;
+	background-clip: content-box, border-box; 
+
+}
+
+.nama a{
+	position: absolute;
+	margin:0px;
+	margin-left:-5px;
+	top: 208px;
+	cursor: pointer;
+	color: #586a74;
+	letter-spacing: 2px;
+}
+
+.academic{
+	color: #ffffff;
+	text-align: center;
+	padding-top: 700px;
+	padding-left: 50px;
+}
+
+.resume{
+	width: 100%;
+	height: 100%;
+	margin-left: 50px;
+	margin-bottom: 100px;
+}
+
+.resume h1{
+	text-align: center;
+}
+
+.sekolah{
+	padding: 10px;
+	float: left;
+	margin-top: 90px;
+	margin-left: 50px;
+	height: 147px;
+	width: 178px;
+	color: #586a74;
+	border: 2px solid transparent;
+	border-radius: 10px;
+	background-image: linear-gradient(#FEFCF3,#FEFCF3),radial-gradient(circle at top left,#ffffff, #ffffff);
+	background-origin: border-box;
+	background-clip: content-box, border-box; 
+
+}
+
+.sekolah img{
+	padding-top: 20px;
+	width: 70px;
+	height: 70px;
+	margin-left: 10px;
+	margin-top: -2px;
+	cursor: pointer;
+}
+
+.sekolah p{
+	padding-top: 10px;
+}
+
+.Hobbys{ 
+	padding-left: 30px;
+	padding-right: 50px;
+	color: #FEFCF3;
+	padding-top: 500px;
+}
+
+.Hobbys h2{
+	text-align: center;
+}
+
+.wadah {
+
+	display: inline-flex;
+	width : 100px;
+	height: 100px;
+	margin: 50px;
+	font-size: 20px;
+
+}
+
+.box img{
+	display: inline-block;
+	margin: 50px;
+	text-align: center;
+	padding: 5px;
+	width: 161px;
+	height: 158px;
+	border-radius: 10px 0px 0px 10px;
+}
+
+.box p{
+	text-align: center;
+}
+
+
+.movie{
+	margin-right: 100px;
+	color: #FEFCF3;
+	padding-top: 400px;
+}
+
+.movie h2{
+	text-align: center;
+}
+
+.isi{
+	width: 100px;
+	height: 100px;
+	margin: 50px;
+	font-size: 20px; 
+	display: inline-flex;
+}
+
+.move img{
+	text-align: center;
+	display: inline-block;
+	margin: 20px;
+	padding: 5px;
+	width: 250px;
+	height: 300px;
+	border-radius: 10px 0px 0px 10px;
+}
+
+.move p{
+	text-align: center;
+}
+
+.kontak{
+	color: #FEFCF3;
+	padding-top: 400px;
+	margin-bottom: 400px;
+}
+
+.kontak h2{
+	padding-left: 50px;
+	margin-left: 500px;
+}
+
+.data{
+	display: inline-flex;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 20px;
+	font-size: 20px;
+	margin-left: 100px;
+}
+
+.kotak {
+	display: inline-flex;
+	padding-left: 30px;
+}
+
+.kotak img{
+	margin: 50px;
+	background-color: transparent;
+	padding: 5px;
+	width: 161px;
+	height: 158px;
+	border-radius: 10px 0px 0px 10px;
+	text-align: center;
+}
+
+.kotak p{
+	text-align: center;
+	margin-top: 120px;
+}
+
+.bottom{
+	padding-top: 200px;
+}
